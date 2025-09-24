@@ -1,4 +1,4 @@
-# 📊 HR Employee Summary Dashboard
+# HR Employee Summary Dashboard
 
 ## Project Overview
 This project presents an interactive **HR Dashboard** built in **Tableau Public** that provides insights into employee distribution, salary trends, department statistics, gender ratios, and more. The dashboard helps HR teams track workforce demographics, device usage, and salary breakdowns across multiple dimensions.
@@ -6,14 +6,14 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 ---
 
 ## Features
-- ✔️ **Employee Gender Distribution** – Male vs Female employees count  
-- ✔️ **Yearly Hiring Trends** – Employees joined in 2024 & 2025  
-- ✔️ **Top 5 Highly Paid Employees** – With salary details  
-- ✔️ **City-wise Gender Split** – Pune, Bangalore, Delhi, Mumbai, Hyderabad, Chennai  
-- ✔️ **Department-wise Employee Count** – Finance, HR, IT, Marketing, Operations, Sales  
-- ✔️ **Employee Age Group Distribution** – 0–4 yrs, 4–8 yrs, 8–12 yrs, 12–16 yrs, 16+ yrs  
-- ✔️ **Device Usage** – Laptop vs Desktop ratio  
-- ✔️ **Salary by Designation** – Manager, Director, Executive, Lead, Analyst
+-  **Employee Gender Distribution** – Male vs Female employees count  
+-  **Yearly Hiring Trends** – Employees joined in 2024 & 2025  
+-  **Top 5 Highly Paid Employees** – With salary details  
+-  **City-wise Gender Split** – Pune, Bangalore, Delhi, Mumbai, Hyderabad, Chennai  
+-  **Department-wise Employee Count** – Finance, HR, IT, Marketing, Operations, Sales  
+-  **Employee Age Group Distribution** – 0–4 yrs, 4–8 yrs, 8–12 yrs, 12–16 yrs, 16+ yrs  
+-  **Device Usage** – Laptop vs Desktop ratio  
+-  **Salary by Designation** – Manager, Director, Executive, Lead, Analyst
 
 ---
 
@@ -25,12 +25,11 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 ---
 
 ## Dashboard Preview
-> Add a screenshot to `images/dashboard_screenshot.png` and it will display here.
 
-```markdown
-![Dashboard Screenshot](images/dashboard_screenshot.png)
 
-## 📊 Insights from Dashboard
+
+
+## Insights from Dashboard
 
 - **Balanced Workforce:** Male employees (**9,986**) and female employees (**10,014**) are almost equal.
 
@@ -46,6 +45,6 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 
 ## 🔗 Live Dashboard
 
-If uploaded to Tableau Public, you can view the dashboard here:  
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/aadesh.kamble/viz/EmployeeData-SampleOrg/Summary)
+You can view the dashboard here:  
+👉 (https://public.tableau.com/app/profile/aadesh.kamble/viz/EmployeeData-SampleOrg/Summary)
 
