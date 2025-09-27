@@ -42,6 +42,8 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 
 - **Device Split:** Workforce is almost evenly divided between **Laptops (50.2%)** and **Desktops (49.8%)**.
 
+- **Experience wise employee count:** The workforce is very evenly distributed across all experience buckets, with the highest concentration in the 8-12 Years category (**4,070 employees**). No single experience level dominates the organization.  
+
 ## 🔗 Live Dashboard
 
 You can view the dashboard here:  
