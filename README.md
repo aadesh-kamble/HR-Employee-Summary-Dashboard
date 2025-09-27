@@ -25,8 +25,8 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 ---
 
 ## Dashboard Preview
+<img width="1595" height="735" alt="Screenshot 2025-09-27 105230" src="https://github.com/user-attachments/assets/1685d05d-dc15-469d-a4a7-3b515c949ed6" />
 
-<img width="1600" height="740" alt="Employee dashboard screenshot" src="https://github.com/user-attachments/assets/741cb096-5a01-4c76-9749-0b26594362d5" />
 
 ## Insights from Dashboard
 
