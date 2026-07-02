@@ -19,8 +19,8 @@ This project presents an interactive **HR Dashboard** built in **Tableau Public*
 
 
 ## Tools & Technologies
-- **Tableau Public / Tableau Desktop** — dashboard creation & visualization  
-- **Git / GitHub** — version control & hosting  
+- **Tableau Public** — dashboard creation & visualization  
+- **GitHub** — version control & hosting  
 
 ---
 
